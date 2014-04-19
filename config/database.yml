@@ -34,7 +34,7 @@ development:
  
 test:
   adapter: postgresql
-  database: mzr-sample-app
+  database: mzr-sample-app-test
   encoding: utf8
   username: namorit
   password:
